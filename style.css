@@ -1,0 +1,9 @@
+body{
+    overflow: hidden;
+}
+
+canvas{
+    border: 2px; 
+    border-style: double;
+    border-color: red;
+}
